@@ -5,6 +5,7 @@ Mehmet Onur Keskin · Berk Buzcu · Berkecan Koçyiğit · Umut Çakan · Anıl 
 [Paper](https://doi.org/10.24963/ijcai.2024/1012) · [First negotiation](#your-first-negotiation) · [Study guide](docs/studies.md) · [Research companions](#a-family-of-negotiation-studies) · [Citation](#cite-the-framework)
 
 [![Tests](https://github.com/monurkeskin/NEGOTIATOR-IJCAI-2024/actions/workflows/tests.yml/badge.svg)](https://github.com/monurkeskin/NEGOTIATOR-IJCAI-2024/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/monurkeskin/NEGOTIATOR-IJCAI-2024/branch/main/graph/badge.svg)](https://codecov.io/gh/monurkeskin/NEGOTIATOR-IJCAI-2024)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 Negotiating with a person involves more than selecting a bid. A system must
