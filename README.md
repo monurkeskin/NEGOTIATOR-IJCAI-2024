@@ -6,6 +6,7 @@ Mehmet Onur Keskin · Berk Buzcu · Berkecan Koçyiğit · Umut Çakan · Anıl 
 
 [![Tests](https://github.com/monurkeskin/NEGOTIATOR-IJCAI-2024/actions/workflows/tests.yml/badge.svg)](https://github.com/monurkeskin/NEGOTIATOR-IJCAI-2024/actions/workflows/tests.yml)
 [![codecov](https://codecov.io/gh/monurkeskin/NEGOTIATOR-IJCAI-2024/branch/main/graph/badge.svg)](https://codecov.io/gh/monurkeskin/NEGOTIATOR-IJCAI-2024)
+[![CodeScene Average Code Health](https://codescene.io/projects/84765/status-badges/average-code-health)](https://codescene.io/projects/84765)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 Negotiating with a person involves more than selecting a bid. A system must
