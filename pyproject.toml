@@ -55,9 +55,23 @@ exclude = ["src/negotiator/_vendor/cbom/model.py", "src/negotiator/_vendor/cbom/
 [tool.coverage.run]
 branch = true
 source = ["negotiator"]
+omit = [
+    "src/negotiator/__main__.py",
+    "src/negotiator/bridges/*",
+    "src/negotiator/_vendor/*",
+]
 
 [tool.coverage.report]
 show_missing = true
+precision = 2
+exclude_also = [
+    "pragma: no cover",
+    "def __repr__",
+    "raise AssertionError",
+    "raise NotImplementedError",
+    "if __name__ == .__main__.:",
+    "if TYPE_CHECKING:",
+]
 
 [[tool.mypy.overrides]]
 module = ["negotiator.bridges.*"]
